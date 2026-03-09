@@ -7,12 +7,12 @@ Using Python, Pandas, Matplotlib, and Seaborn, the project visualizes relationsh
 
 
 **🎯 Objectives**
-The main goals of this project are:
-Analyze the distribution of exam scores
-Understand how motivation levels affect performance
-Segment students into performance groups
-Visualize patterns using clear statistical charts
-Practice a structured EDA workflow
+The main goals of this project are:  
+1. Analyze the distribution of exam scores  
+Understand how motivation levels affect performance  
+Segment students into performance groups  
+Visualize patterns using clear statistical charts  
+Practice a structured EDA workflow  
 
 
 **🛠️ Tools & Technologies**
