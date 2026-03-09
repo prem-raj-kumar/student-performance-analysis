@@ -47,32 +47,33 @@ Other behavioral or academic indicators.
 The dataset is analyzed to discover performance trends and behavioral insights.  
 
 <br>
+
 **📈 Exploratory Data Analysis**
 
 The following analyses were performed:
 
-1️⃣ Exam Score Distribution
+1. Exam Score Distribution
 
 Visualized how exam scores are distributed.
 
 Identified clusters of low, moderate, and high performers.
 
-2️⃣ Performance Segmentation
+2. Performance Segmentation
 
 Students were categorized into performance groups:
 
-Score Range	Category
-55–65	Low Performers
-66–79	Moderate Performers
-80+	High Performers
+Score Range	Category  
+55–65	Low Performers  
+66–79	Moderate Performers  
+80+	High Performers  
 
 This segmentation helped visualize performance clusters clearly.
 
-3️⃣ Motivation vs Exam Performance
+3️. Motivation vs Exam Performance
 
 A bar chart was created to analyze the relationship between motivation level and average exam score.
 
-
+<br>
 **📊 Observation:**
 
 Students with higher motivation levels tend to achieve slightly better scores.
