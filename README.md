@@ -5,6 +5,7 @@
 This project performs Exploratory Data Analysis (EDA) on a student performance dataset to understand the factors that influence exam scores.  
 The analysis focuses on identifying patterns between student behavior, study habits, and motivation levels and their impact on academic performance.  
 Using Python, Pandas, Matplotlib, and Seaborn, the project visualizes relationships in the data and extracts meaningful insights.  
+<br>
 
   
 **🎯 Objectives**
@@ -15,7 +16,7 @@ The main goals of this project are:
 4. Visualize patterns using clear statistical charts  
 5. Practice a structured EDA workflow  
 
-   
+   <br>
 **🛠️ Tools & Technologies**
 
 Python  
@@ -29,23 +30,23 @@ Matplotlib – data visualization
 Seaborn – statistical visualization  
 
 Jupyter Notebook  
-
+<br>
 
 **📂 Dataset**
 
-The dataset contains information about students including:
+The dataset contains information about students including:  
 
-Exam Score
+Exam Score  
 
-Motivation Level
+Motivation Level  
 
-Study Patterns
+Study Patterns  
 
-Other behavioral or academic indicators.
+Other behavioral or academic indicators.  
 
-The dataset is analyzed to discover performance trends and behavioral insights.
+The dataset is analyzed to discover performance trends and behavioral insights.  
 
-
+<br>
 **📈 Exploratory Data Analysis**
 
 The following analyses were performed:
