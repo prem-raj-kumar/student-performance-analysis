@@ -74,38 +74,41 @@ This segmentation helped visualize performance clusters clearly.
 A bar chart was created to analyze the relationship between motivation level and average exam score.
 
 <br>
+
 **📊 Observation:**
 
 Students with higher motivation levels tend to achieve slightly better scores.
 
 However, the difference between groups is relatively small.
 
+<br>
 
 **📊 Sample Visualization**
 
-Example chart from the analysis:
-
-Exam Score Distribution
-
-Average Exam Score by Motivation Level
-
+Example chart from the analysis:  
+<br>
+Exam Score Distribution  
+<br>
+Average Exam Score by Motivation Level  
+<br>
 (Charts generated using Seaborn & Matplotlib)
 
-
+<br>
 
 **🔍 Key Insights**
-Some important observations from the analysis:
-✔ Most students fall into the moderate performance range
-✔ Higher motivation levels show slightly better academic performance
-✔ Score distribution indicates moderate clustering around average scores
+Some important observations from the analysis:  
+✔ Most students fall into the moderate performance range  
+✔ Higher motivation levels show slightly better academic performance  
+✔ Score distribution indicates moderate clustering around average scores  
 
+<br>
 
 **📁 Project Structure**
-student-performance-analysis
-│
-├── student_performance_EDA.ipynb
-├── README.md
-└── dataset.csv
+student-performance-analysis  
+│  
+├── student_performance_EDA.ipynb  
+├── README.md  
+└── dataset.csv  
 
 **📌 Future Improvements**
 
