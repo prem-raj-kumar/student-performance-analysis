@@ -1,26 +1,17 @@
 **📊 Student Performance Analysis (EDA)**
 
 **📌 Project Overview**
-
 This project performs Exploratory Data Analysis (EDA) on a student performance dataset to understand the factors that influence exam scores.
-
 The analysis focuses on identifying patterns between student behavior, study habits, and motivation levels and their impact on academic performance.
-
 Using Python, Pandas, Matplotlib, and Seaborn, the project visualizes relationships in the data and extracts meaningful insights.
 
 
 **🎯 Objectives**
-
 The main goals of this project are:
-
 Analyze the distribution of exam scores
-
 Understand how motivation levels affect performance
-
 Segment students into performance groups
-
 Visualize patterns using clear statistical charts
-
 Practice a structured EDA workflow
 
 
@@ -98,13 +89,13 @@ Average Exam Score by Motivation Level
 (Charts generated using Seaborn & Matplotlib)
 
 
+
 **🔍 Key Insights**
-
 Some important observations from the analysis:
-
 ✔ Most students fall into the moderate performance range
 ✔ Higher motivation levels show slightly better academic performance
 ✔ Score distribution indicates moderate clustering around average scores
+
 
 **📁 Project Structure**
 student-performance-analysis
