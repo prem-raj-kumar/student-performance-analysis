@@ -1,7 +1,7 @@
 **📊 Student Performance Analysis (EDA)**
 
 **📌 Project Overview**  
-next paragraph
+<br>
 This project performs Exploratory Data Analysis (EDA) on a student performance dataset to understand the factors that influence exam scores.  
 The analysis focuses on identifying patterns between student behavior, study habits, and motivation levels and their impact on academic performance.  
 Using Python, Pandas, Matplotlib, and Seaborn, the project visualizes relationships in the data and extracts meaningful insights.  
