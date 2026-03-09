@@ -1,11 +1,11 @@
 **📊 Student Performance Analysis (EDA)**
 
-**📌 Project Overview**
+**📌 Project Overview**  
 This project performs Exploratory Data Analysis (EDA) on a student performance dataset to understand the factors that influence exam scores.  
 The analysis focuses on identifying patterns between student behavior, study habits, and motivation levels and their impact on academic performance.  
 Using Python, Pandas, Matplotlib, and Seaborn, the project visualizes relationships in the data and extracts meaningful insights.  
 
-
+  
 **🎯 Objectives**
 The main goals of this project are:  
 1. Analyze the distribution of exam scores  
@@ -14,7 +14,7 @@ The main goals of this project are:
 4. Visualize patterns using clear statistical charts  
 5. Practice a structured EDA workflow  
 
-
+   
 **🛠️ Tools & Technologies**
 
 Python  
