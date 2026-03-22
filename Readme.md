@@ -1,8 +1,8 @@
-**📊 Student Performance Analysis (EDA)**
+# 📊 Student Performance Analysis (EDA)
 
 
 
-**📌 Project Overview**
+#📌 Project Overview
 
 
 
