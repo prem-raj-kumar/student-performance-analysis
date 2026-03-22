@@ -2,7 +2,7 @@
 
 
 
-#📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -20,7 +20,7 @@ Using Python, Pandas, Matplotlib, and Seaborn, the project visualizes relationsh
 
 
 
-**🎯 Objectives**
+ ### 🎯 Objectives
 
 
 
