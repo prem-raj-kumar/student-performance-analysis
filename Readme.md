@@ -50,7 +50,7 @@ Practice a structured EDA workflow
 
 
 
-**🛠️ Tools \& Technologies**
+### 🛠️ Tools \& Technologies
 
 
 
@@ -80,7 +80,7 @@ Jupyter Notebook
 
 
 
-**📂 Dataset**
+### 📂 Dataset
 
 
 
@@ -110,7 +110,7 @@ The dataset is analyzed to discover performance trends and behavioral insights.
 
 
 
-**📈 Exploratory Data Analysis**
+### 📈 Exploratory Data Analysis
 
 
 
@@ -162,7 +162,7 @@ A bar chart was created to analyze the relationship between motivation level and
 
 
 
-**📊 Observation:**
+### 📊 Observation:
 
 
 
@@ -176,7 +176,7 @@ However, the difference between groups is relatively small.
 
 
 
-**📊 Sample Visualization**
+### 📊 Sample Visualization
 
 
 
@@ -198,7 +198,7 @@ Average Exam Score by Motivation Level
 
 
 
-**🔍 Key Insights**
+### 🔍 Key Insights
 
 
 
@@ -216,10 +216,10 @@ Some important observations from the analysis:
 
 
 
-**📁 Project Structure**
+## 📁 Project Structure
 
 
-
+```plaintext 
 student-performance-analysis
 
 │
@@ -229,12 +229,12 @@ student-performance-analysis
 ├── README.md
 
 └── dataset.csv
+```
 
 
 
 
-
-**📌 Future Improvements**
+## 📌 Future Improvements
 
 
 
@@ -260,7 +260,7 @@ Apply machine learning models to predict performance
 
 
 
-**🤝 Contributing**
+## 🤝 Contributing
 
 
 
