@@ -17,7 +17,7 @@ The analysis focuses on identifying patterns between student behavior, study hab
 Using Python, Pandas, Matplotlib, and Seaborn, the project visualizes relationships in the data and extracts meaningful insights.
 
 
-
+---
 
 
  ### 🎯 Objectives
@@ -47,7 +47,7 @@ Visualize patterns using clear statistical charts
 Practice a structured EDA workflow
 
 
-
+---
 
 
 ### 🛠️ Tools \& Technologies
@@ -77,7 +77,7 @@ Seaborn – statistical visualization
 Jupyter Notebook
 
 
-
+---
 
 
 ### 📂 Dataset
@@ -107,7 +107,7 @@ Other behavioral or academic indicators.
 The dataset is analyzed to discover performance trends and behavioral insights.
 
 
-
+---
 
 
 ### 📈 Exploratory Data Analysis
@@ -159,7 +159,7 @@ This segmentation helped visualize performance clusters clearly.
 A bar chart was created to analyze the relationship between motivation level and average exam score.
 
 
-
+---
 
 
 ### 📊 Observation:
@@ -173,7 +173,7 @@ Students with higher motivation levels tend to achieve slightly better scores.
 However, the difference between groups is relatively small.
 
 
-
+---
 
 
 ### 📊 Sample Visualization
@@ -195,7 +195,7 @@ Average Exam Score by Motivation Level
 (Charts generated using Seaborn \& Matplotlib)
 
 
-
+---
 
 
 ### 🔍 Key Insights
@@ -213,7 +213,7 @@ Some important observations from the analysis:
 ✔ Score distribution indicates moderate clustering around average scores
 
 
-
+---
 
 
 ## 📁 Project Structure
@@ -231,7 +231,7 @@ student-performance-analysis
 └── dataset.csv
 ```
 
-
+---
 
 
 ## 📌 Future Improvements
@@ -257,7 +257,7 @@ Create interactive dashboards
 Apply machine learning models to predict performance
 
 
-
+---
 
 
 ## 🤝 Contributing
